@@ -18,7 +18,7 @@ public class MainController {
 		
 		MainView view = new MainView("Taschenrechner");
 		
-		
+		// Sehr schön ich habe meinen aufrug für die Rechnung in der View, was natürlich flasch ist
 		view.addResultBtnActionListener(new ActionListener() {
 			
 			@Override
