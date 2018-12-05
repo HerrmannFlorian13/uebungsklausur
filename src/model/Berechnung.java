@@ -29,7 +29,7 @@ public class Berechnung {
 			}
 		default:
 			return 1E-14;
-
+		//Sehr geil gleich noch die Fehler abgefangen :)
 		
 		}
 	}
