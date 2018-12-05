@@ -151,6 +151,7 @@ public class MainView extends JFrame {
 	private void changeImage(boolean en) {
 		if (en) {
 			imageLabel.setIcon(new ImageIcon("assets/math_en.jpg"));
+			// Geil gelöst das Syso kann noch raus :)
 			System.out.println("en");
 		}else {
 			imageLabel.setIcon(new ImageIcon("assets/math_de.jpg"));
